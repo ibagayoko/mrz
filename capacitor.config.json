@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "mrz",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

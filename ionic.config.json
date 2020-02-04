@@ -1,0 +1,7 @@
+{
+  "name": "mrz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
